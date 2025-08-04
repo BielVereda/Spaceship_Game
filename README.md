@@ -2,7 +2,7 @@
 
 **Spaceship Game** é um projeto de jogo simples de nave espacial, desenvolvido em **Python** utilizando a biblioteca **Pygame**.
 
-O objetivo do jogo é pilotar uma nave, desviar de obstáculos e/ou destruir inimigos (dependendo da versão final). O projeto foi concluído em **2024** como parte do meu aprendizado em desenvolvimento de jogos 2D.
+O objetivo do jogo é pilotar uma nave, desviar de obstáculos e/ou destruir inimigos. O projeto foi concluído em **2024** como parte do meu aprendizado em desenvolvimento de jogos 2D.
 
 ## 🎮 Funcionalidades
 
