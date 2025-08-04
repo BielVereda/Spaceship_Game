@@ -6,11 +6,11 @@ O objetivo do jogo é pilotar uma nave, desviar de obstáculos e/ou destruir ini
 
 ## 🎮 Funcionalidades
 
-- Controle da nave com teclado
-- Interface gráfica com sprites
-- Detecção de colisões
-- Sons e animações básicas (se aplicável)
-- Sistema de pontuação ou fases (se implementado)
+- Controle da nave com teclado;
+- Interface gráfica com sprites;
+- Detecção de colisões;
+- Sons e animações básicas
+- Sistema de pontuação;
 
 ## 🛠️ Tecnologias utilizadas
 
